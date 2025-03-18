@@ -3,7 +3,7 @@
 ## Aim
 The aim is to design, implement, and analyze a D flip-flop using Cadence EDA tools, ensuring accurate sequential logic operation through waveform analysis and performance verification.
 
-## Tools Required
+## Tools Required 
 
 ### Cadence EDA Suite
 - **Virtuoso Schematic Editor** (for circuit design)
@@ -41,7 +41,8 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Circuit Diagram
 
 ### 1. Schematic of D Flip-Flop
-*![IMG-20241019-WA0012](https://github.com/user-attachments/assets/34ba817f-3261-4ea3-b4e2-6be450b2207d)*
+![Screenshot (107)](https://github.com/user-attachments/assets/c3876513-cfed-4d9d-b211-737d6d227dd6)
+
 
 ### 2. Transient Response Setup
 *
@@ -53,7 +54,8 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 ## Output
 
 ### 1. Transient Analysis Output
-* ![IMG-20241019-WA0014](https://github.com/user-attachments/assets/eef27219-4166-4c49-8662-ee7e0ddb6894)*
+![Screenshot (108)](https://github.com/user-attachments/assets/882e01a0-e324-405e-bcfd-11a12b481894)
+
 
 ## Results
 1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
